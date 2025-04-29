@@ -1,0 +1,84 @@
+
+.skill-section {
+    text-align: center;
+        margin:auto;
+    width:80%;
+}
+.skills-section ul {
+list-style-position: inside;
+text-align: left;
+display: inline-block;
+padding-left: 0;
+}
+.skills-section li {
+    margin-bottom: 10px;
+    line-height: 1.5; 
+}
+
+.skills-list{
+    text-align: center;
+        margin:auto;
+    width:80%;   
+}
+.skills-list ul {
+list-style-position: inside;
+text-align: left;
+display: inline-block;
+padding-left: 0;
+}
+.skills-list li {
+    margin-bottom: 10px;
+    line-height: 1.5; 
+}
+h3{
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+p, ul{
+    margin-top: 5px;
+    margin-bottom: 4px;
+
+
+}
+.project-part{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.project-section li{
+    margin-bottom: 10px;
+    line-height: 1.5; 
+}
+
+.project-section ul{
+    list-style-position: inside;
+text-align: left;
+display: inline-block;
+padding-left: 0;
+
+}
+.layout {
+    display: flex;
+    flex-direction: row;
+    min-height: 100vh;
+  }
+  
+  .left-sidebar {
+    width: 220px;
+    background-color:rgb(209, 208, 208);
+    padding: 1rem;
+    background-image: url(https://media.istockphoto.com/id/1262603088/photo/zero-gravity-open-space-office.jpg?s=612x612&w=0&k=20&c=OQh6LhnlEQ6KpKE2B7sZRKwGPkIH8sQVLLqOpZ-gG6w=);
+    background-size: cover; 
+  background-position: center;
+  position: relative;
+  }
+  .right-sidebar {
+    width: 200px;
+    background-color:rgb(209, 208, 208);
+    padding: 1rem;
+    background-image:url(https://thumbs.dreamstime.com/b/profile-side-view-his-nice-attractive-chic-confident-focused-man-qualified-expert-economist-sitting-chair-preparing-181195791.jpg) ;
+    background-size: cover; 
+  background-position: center;
+  position: relative;
+  }
